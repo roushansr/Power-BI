@@ -1,0 +1,8 @@
+Dax:
+1.Average
+2.Median
+3.Calculate
+4.EDATE
+5.SWITCH
+6.MAX/MIN
+7.
